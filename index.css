@@ -97,6 +97,10 @@
     width: 60%;
 }
 
+.bi{
+     cursore: pointer;
+}
+
 @media screen and (max-width:844px ) {
 
     .navbar-nav a{
